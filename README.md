@@ -2,7 +2,7 @@
 
 ![Claude Token Usage](./token-heatmap.svg)
 
-
+```
 sequenceDiagram
     autonumber
     participant C as 고객폰
@@ -69,3 +69,4 @@ sequenceDiagram
     M-->>O: SSE push (연결 활성) · 또는 FCM (비활성)
     Note right of M: ⏱ T9 · SSE 60min
     end
+```
