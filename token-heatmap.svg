@@ -348,9 +348,9 @@
 <rect x="633" y="98" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-03-21: 0 tokens</title></rect>
 <rect x="646" y="20" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-03-22: 0 tokens</title></rect>
 <rect x="646" y="33" width="11" height="11" rx="2" fill="#fdd8b0"><title>2026-03-23: 2,846,126 tokens</title></rect>
-<rect x="646" y="46" width="11" height="11" rx="2" fill="#fdd8b0"><title>2026-03-24: 781,950 tokens</title></rect>
-<rect x="646" y="59" width="11" height="11" rx="2" fill="#fdd8b0"><title>2026-03-25: 37,170 tokens</title></rect>
-<rect x="646" y="72" width="11" height="11" rx="2" fill="#8b2f00"><title>2026-03-26: 123,010,332 tokens</title></rect>
+<rect x="646" y="46" width="11" height="11" rx="2" fill="#fdd8b0"><title>2026-03-24: 560,291 tokens</title></rect>
+<rect x="646" y="59" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-03-25: 0 tokens</title></rect>
+<rect x="646" y="72" width="11" height="11" rx="2" fill="#8b2f00"><title>2026-03-26: 50,716,859 tokens</title></rect>
 <rect x="646" y="85" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-03-27: 0 tokens</title></rect>
 <rect x="646" y="98" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-03-28: 0 tokens</title></rect>
 <rect x="659" y="20" width="11" height="11" rx="2" fill="#d94f00"><title>2026-03-29: 15,074,926 tokens</title></rect>
@@ -382,7 +382,7 @@
 <rect x="698" y="72" width="11" height="11" rx="2" fill="#d94f00"><title>2026-04-23: 13,674,728 tokens</title></rect>
 <rect x="698" y="85" width="11" height="11" rx="2" fill="#8b2f00"><title>2026-04-24: 34,011,163 tokens</title></rect>
 <rect x="698" y="98" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-04-25: 0 tokens</title></rect>
-<rect x="711" y="20" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-04-26: 0 tokens</title></rect>
+<rect x="711" y="20" width="11" height="11" rx="2" fill="#fdd8b0"><title>2026-04-26: 1,015,404 tokens</title></rect>
 <text x="573" y="131">Less</text>
 <rect x="607" y="121" width="11" height="11" rx="2" fill="#ebedf0"/>
 <rect x="621" y="121" width="11" height="11" rx="2" fill="#fdd8b0"/>
