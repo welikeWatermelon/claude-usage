@@ -321,7 +321,7 @@
 <rect x="594" y="33" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-02-23: 0 tokens</title></rect>
 <rect x="594" y="46" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-02-24: 0 tokens</title></rect>
 <rect x="594" y="59" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-02-25: 0 tokens</title></rect>
-<rect x="594" y="72" width="11" height="11" rx="2" fill="#d94f00"><title>2026-02-26: 9,677,828 tokens</title></rect>
+<rect x="594" y="72" width="11" height="11" rx="2" fill="#f47a20"><title>2026-02-26: 9,677,828 tokens</title></rect>
 <rect x="594" y="85" width="11" height="11" rx="2" fill="#fdae6b"><title>2026-02-27: 4,434,067 tokens</title></rect>
 <rect x="594" y="98" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-02-28: 0 tokens</title></rect>
 <text x="607" y="15">Mar</text>
@@ -380,10 +380,11 @@
 <rect x="698" y="46" width="11" height="11" rx="2" fill="#8b2f00"><title>2026-04-21: 61,053,918 tokens</title></rect>
 <rect x="698" y="59" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-04-22: 0 tokens</title></rect>
 <rect x="698" y="72" width="11" height="11" rx="2" fill="#d94f00"><title>2026-04-23: 13,674,728 tokens</title></rect>
-<rect x="698" y="85" width="11" height="11" rx="2" fill="#8b2f00"><title>2026-04-24: 34,011,163 tokens</title></rect>
+<rect x="698" y="85" width="11" height="11" rx="2" fill="#d94f00"><title>2026-04-24: 34,011,163 tokens</title></rect>
 <rect x="698" y="98" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-04-25: 0 tokens</title></rect>
 <rect x="711" y="20" width="11" height="11" rx="2" fill="#d94f00"><title>2026-04-26: 16,188,796 tokens</title></rect>
-<rect x="711" y="33" width="11" height="11" rx="2" fill="#8b2f00"><title>2026-04-27: 131,800,182 tokens</title></rect>
+<rect x="711" y="33" width="11" height="11" rx="2" fill="#8b2f00"><title>2026-04-27: 144,972,837 tokens</title></rect>
+<rect x="711" y="46" width="11" height="11" rx="2" fill="#8b2f00"><title>2026-04-28: 135,448,918 tokens</title></rect>
 <text x="573" y="131">Less</text>
 <rect x="607" y="121" width="11" height="11" rx="2" fill="#ebedf0"/>
 <rect x="621" y="121" width="11" height="11" rx="2" fill="#fdd8b0"/>
